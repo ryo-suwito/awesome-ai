@@ -1,8 +1,21 @@
-# Awesome AI Resources
+# Open Source AI Academy
 
-A curated list of Artificial Intelligence resources, covering more than just models and frameworks. This list is updated bi-yearly to keep track of the rapidly evolving AI landscape.
+Welcome to the **Open Source AI Academy**. Our goal is to provide a comprehensive, free, and open-source pathway for anyone to go from "Zero" to "Hero" in Artificial Intelligence.
 
-## Table of Contents
+We have curated the best open-source tools, frameworks, and learning resources to guide you through this journey.
+
+## 🚀 Start Here: The Roadmap
+
+Check out our **[Zero to Hero Roadmap](ROADMAP.md)**.
+This structured curriculum guides you through 7 main modules, taking you from foundational concepts to building autonomous AI agents and deploying them to production.
+
+---
+
+## 📚 The Library: Awesome AI Resources
+
+Below is our curated collection of tools and frameworks used in the Academy.
+
+### Table of Contents
 
 - [Generative AI & LLMs](#generative-ai--llms)
 - [Machine Learning Frameworks](#machine-learning-frameworks)
@@ -14,7 +27,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - [Ethics, Safety & Regulation](#ethics-safety--regulation)
 - [Learning Resources](#learning-resources)
 
-## Generative AI & LLMs
+### Generative AI & LLMs
 
 *Tools, models, and frameworks for Generative AI and Large Language Models.*
 
@@ -27,7 +40,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[PEFT](https://github.com/huggingface/peft)** - Parameter-Efficient Fine-Tuning methods for large models.
 - **[TRL](https://github.com/huggingface/trl)** - Transformer Reinforcement Learning for training transformer language models with RL.
 
-## Machine Learning Frameworks
+### Machine Learning Frameworks
 
 *Core libraries and frameworks for building ML models.*
 
@@ -37,7 +50,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[Scikit-learn](https://scikit-learn.org/)** - Simple and efficient tools for predictive data analysis.
 - **[XGBoost](https://github.com/dmlc/xgboost)** - Scalable, Portable and Distributed Gradient Boosting (GBDT) Library.
 
-## MLOps & Production
+### MLOps & Production
 
 *Tools for deploying, monitoring, and managing ML models in production.*
 
@@ -49,7 +62,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[BentoML](https://github.com/bentoml/BentoML)** - Build, Ship, and Scale AI applications.
 - **[DVC](https://dvc.org/)** - Data Version Control; Version Control System for Machine Learning Projects.
 
-## AI Agents
+### AI Agents
 
 *Frameworks and tools for building autonomous AI agents.*
 
@@ -59,7 +72,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[AutoGen](https://github.com/microsoft/autogen)** - A framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks.
 - **[LangGraph](https://github.com/langchain-ai/langgraph)** - Building language agents as graphs.
 
-## Computer Vision
+### Computer Vision
 
 *Libraries and tools for image and video analysis.*
 
@@ -68,7 +81,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[MMDetection](https://github.com/open-mmlab/mmdetection)** - OpenMMLab Detection Toolbox and Benchmark.
 - **[Detectron2](https://github.com/facebookresearch/detectron2)** - A platform for object detection, segmentation and other visual recognition tasks.
 
-## Natural Language Processing
+### Natural Language Processing
 
 *Tools for processing and understanding human language.*
 
@@ -77,7 +90,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[Gensim](https://radimrehurek.com/gensim/)** - Topic Modelling for Humans.
 - **[Flair](https://github.com/flairNLP/flair)** - A very simple framework for state-of-the-art Natural Language Processing (NLP).
 
-## Data Engineering for AI
+### Data Engineering for AI
 
 *Data processing, vector databases, and management tools.*
 
@@ -88,7 +101,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[Data-Juicer](https://github.com/modelscope/data-juicer)** - A one-stop data processing system for LLMs.
 - **[Datatrove](https://github.com/huggingface/datatrove)** - Large scale data processing for LLM training.
 
-## Ethics, Safety & Regulation
+### Ethics, Safety & Regulation
 
 *Resources for responsible AI development.*
 
@@ -97,7 +110,7 @@ A curated list of Artificial Intelligence resources, covering more than just mod
 - **[Adversarial Robustness Toolbox (ART)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)** - Python library for machine learning security.
 - **[Guardrails AI](https://github.com/guardrails-ai/guardrails)** - Adding guardrails to Large Language Models.
 
-## Learning Resources
+### Learning Resources
 
 *Courses, books, and tutorials.*
 
